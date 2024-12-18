@@ -4,8 +4,10 @@ version: 0.4.1
 homepage: https://github.com/VolodymyrLykhonis/image_crop
 
 environment:
-  sdk: ">=2.17.0 <3.0.0"
-  flutter: ">=2.5.0"
+  #Especifica as versões do Dart SDK que o aplicativo suporta
+  sdk: ">=3.3.1 <4.0.0"
+  #Especifica a versao do Flutter SDK que o aplicativo suporta
+  flutter: ">=3.19.3"
 
 dependencies:
   flutter:
